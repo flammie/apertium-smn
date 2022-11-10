@@ -1,0 +1,8 @@
+prefix=@prefix@
+exec_prefix=${prefix}
+srcdir=@datarootdir@/apertium/apertium-smn
+
+Name: apertium-smn
+Description: Finite-state morphological transducer and constraint grammar for Inari Sami
+Version: @VERSION@
+

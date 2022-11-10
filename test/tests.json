@@ -1,0 +1,10 @@
+{
+    "analysis": {
+        "input": "analysis-input.txt",
+        "mode": "smn-disam"
+    },
+    "generation": {
+        "input": "generation-input.txt",
+        "mode": "smn-gener"
+    }
+}

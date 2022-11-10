@@ -47,3 +47,29 @@ m4/lt~obsolete.m4
 # can automatically generate from config.status script
 # (which is called by configure script))
 Makefile
+
+# apertiums
+/*.bin
+/*.hfst
+/*.gz
+/*.m4
+/*.pc
+/*.zhfst
+/.DS_Store
+/INSTALL
+/Makefile
+/Makefile.in
+/ap_include.am
+/autom4te.cache
+/config.log
+/config.status
+/configure
+/install-sh
+/missing
+/modes
+/*.mode
+/*-*.prob
+/.deps
+/config.in
+/config
+/test/*-output.txt
